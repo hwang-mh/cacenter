@@ -1,0 +1,5 @@
+movie\MovieReserved.class
+movie\AbstractEvent.class
+movie\PolicyHandler.class
+movie\Application.class
+movie\KafkaProcessor.class
